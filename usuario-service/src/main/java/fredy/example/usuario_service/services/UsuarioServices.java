@@ -5,7 +5,8 @@ import fredy.example.usuario_service.model.entities.Usuario;
 import fredy.example.usuario_service.repositories.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
 
-
+@Services
+@RequiredArgsConstructor
 public class UsuarioServices {
 
     private final UsuarioRepository usuarioRepository;
