@@ -6,6 +6,7 @@
 		<groupId>fredy.example</groupId>
 		<artifactId>microservicios</artifactId>
 		<version>1.0.0</version>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 	
 	
